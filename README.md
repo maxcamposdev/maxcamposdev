@@ -1,4 +1,4 @@
-<h1>Olá, me Max Campos</h1> <p> <img src="https://custom-icon-badges.demolab.com/badge/-Desenvolvedor%20Júnior-BA00FF?style=for-the-badge&labelColor=0D0221" alt="Desenvolvedor Júnior"/> </p>
+<h1>Olá, me chamo Max Campos</h1> <p> <img src="https://custom-icon-badges.demolab.com/badge/-Desenvolvedor%20Júnior-BA00FF?style=for-the-badge&labelColor=0D0221" alt="Desenvolvedor Júnior"/> </p>
 
   Tenho 35 anos e sou natural de Belém - PA, morando atualmente em Curitiba - PR. Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFATECIE, em transição de carreira para a área de tecnologia. Desenvolvo projetos próprios em Python e JavaScript para aplicar e aprofundar meus conhecimentos, e compartilho parte da minha jornada no meu canal do YouTube <a href="https://www.youtube.com/@maxcamposdev">"Max Campos Developer"</a>.
 
