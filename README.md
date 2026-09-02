@@ -1,94 +1,109 @@
-🚀 Projetos
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📦 Sistema Estoque, Caixa e Vendas</h3>
+<h1>Olá, me chamo Max Campos</h1>
 
 <p>
-Sistema completo de gerenciamento comercial desenvolvido para controle de produtos,
-estoque, vendas e operações de caixa para pequenos negócios.
+<img src="https://custom-icon-badges.demolab.com/badge/-Desenvolvedor%20J%C3%BAnior-BA00FF?style=for-the-badge&labelColor=0D0221" alt="Desenvolvedor Júnior"/>
 </p>
 
-<ul>
-<li>Cadastro e gerenciamento de produtos</li>
-<li>Controle de estoque e movimentações</li>
-<li>Sistema de vendas com registro de operações</li>
-<li>Abertura e fechamento de caixa</li>
-<li>Histórico de vendas e acompanhamento das operações</li>
-<li>Interface web moderna e responsiva</li>
-<li>Integração entre frontend, backend e banco de dados</li>
-<li>Versionamento utilizando Git e GitHub</li>
-</ul>
+Tenho 35 anos e sou natural de Belém - PA, morando atualmente em Curitiba - PR.
 
-<p>
-<b>Tecnologias:</b><br>
-JavaScript · React · Node.js · PostgreSQL · Git
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFATECIE e estou em transição de carreira para a área de tecnologia.
+
+Desenvolvo projetos próprios utilizando Python e JavaScript para aplicar e aprofundar meus conhecimentos, buscando sempre evoluir minhas habilidades técnicas.
+
+Também compartilho parte da minha jornada de aprendizado no meu canal do YouTube:
+<a href="https://www.youtube.com/@maxcamposdev">maxcamposdev</a>.
+
+
+<p align="left">
+
+<a href="https://www.youtube.com/@maxcamposdev?sub_confirmation=1">
+<img alt="Inscritos" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC43PgOJiRvJFeHqb_MPsVZQ?color=BA00FF&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=0D0221"/>
+</a>
+
+<a href="https://www.youtube.com/@maxcamposdev">
+<img alt="youtube views" title="Veja meus vídeos" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC43PgOJiRvJFeHqb_MPsVZQ?color=0047AB&label=Views&logo=video&logoColor=white&style=for-the-badge&labelColor=0D0221"/>
+</a>
+
+<a href="https://github.com/maxcamposdev?tab=repositories&sort=stargazers">
+<img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/maxcamposdev?color=1E7145&style=for-the-badge&labelColor=0D0221&logo=star&label=Estrelas"/>
+</a>
+
+<a href="https://github.com/maxcamposdev?tab=followers">
+<img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/maxcamposdev?color=FF073A&labelColor=0D0221&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maxcamposdev/">
+<img alt="LinkedIn" title="Me siga no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-FFC800?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221"/>
+</a>
+
 </p>
 
-<a href="https://github.com/maxcamposdev/projeto-estoque">
-<img src="https://custom-icon-badges.demolab.com/badge/-Ver%20Reposit%C3%B3rio-BA00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="Ver repositório"/>
-</a>
 
-<br>
+## 💻 Linguagens e Tecnologias
 
-<a href="COLOQUE_O_LINK_DO_PROJETO_ONLINE">
-<img src="https://custom-icon-badges.demolab.com/badge/-Ver%20Projeto%20Online-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0221" alt="Projeto online"/>
-</a>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h3>💼 CampOne SaaS</h3>
-
-<p>
-Plataforma de gestão para barbearias, salões de beleza, studios de estética e clínicas.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,git,github,vscode&theme=dark" alt="Linguagens e Tecnologias"/>
 </p>
 
-<ul>
-<li>Modelagem das funcionalidades</li>
-<li>Planejamento da arquitetura da aplicação</li>
-<li>Estruturação do banco de dados</li>
-<li>Organização do projeto utilizando Git e GitHub</li>
-<li>Projeto em evolução contínua 🚀</li>
-</ul>
 
-<a href="https://github.com/maxcamposdev/saas-campone">
-<img src="https://custom-icon-badges.demolab.com/badge/-Ver%20Reposit%C3%B3rio-0047AB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="Ver repositório"/>
-</a>
+## 🎯 Objetivo
 
-</td>
+Buscando minha primeira oportunidade como Desenvolvedor Júnior.
 
-</tr>
+Tenho foco em desenvolvimento de aplicações, boas práticas de programação, organização de código e evolução constante.
+
+Sou comprometido, tenho facilidade para aprender e busco contribuir com soluções eficientes dentro de um time de desenvolvimento.
 
 
-<tr>
+<br/>
 
-<td width="50%" valign="top">
 
-<h3>📊 Painel Pessoal (Dashboard)</h3>
+# 🛠️ Habilidades Técnicas
 
-<p>
-Dashboard desenvolvido para centralizar informações e facilitar o gerenciamento de atividades.
+
+## Linguagens
+
+<p align="left">
+
+<img src="https://custom-icon-badges.demolab.com/badge/-Python-BA00FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0221"/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-0047AB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D0221"/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/-HTML5-1E7145?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D0221"/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/-CSS3-FFC800?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D0221"/>
+
 </p>
 
-<ul>
-<li>Criação da interface utilizando HTML, CSS e JavaScript</li>
-<li>Organização da navegação e componentes</li>
-<li>Aplicação de conceitos de desenvolvimento web</li>
-</ul>
 
-<a href="https://github.com/maxcamposdev/painel-pessoal">
-<img src="https://custom-icon-badges.demolab.com/badge/-Ver%20Reposit%C3%B3rio-BA00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221" alt="Ver repositório"/>
-</a>
+## Banco de Dados
 
-</td>
+<p align="left">
 
-</tr>
+<img src="https://custom-icon-badges.demolab.com/badge/-PostgreSQL-0047AB?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D0221"/>
 
-</table>
+</p>
+
+
+## Ferramentas
+
+<p align="left">
+
+<img src="https://custom-icon-badges.demolab.com/badge/-Git-1E7145?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0221"/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/-GitHub-BA00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221"/>
+
+<img src="https://custom-icon-badges.demolab.com/badge/-VS%20Code-0047AB?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D0221"/>
+
+</p>
+
+
+## Conceitos
+
+Lógica de Programação · Algoritmos · Programação Orientada a Objetos (POO) · Versionamento com Git
+
+
+<br/>
+
+
+# 🚀 Projetos
